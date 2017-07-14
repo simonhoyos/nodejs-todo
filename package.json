@@ -1,0 +1,24 @@
+{
+  "name": "todo-list-api",
+  "version": "1.0.0",
+  "description": "RESTful API made with node express and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shmesa22/nodejs-todo.git"
+  },
+  "keywords": [
+    "todo",
+    "api",
+    "server"
+  ],
+  "author": "Simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shmesa22/nodejs-todo/issues"
+  },
+  "homepage": "https://github.com/shmesa22/nodejs-todo#readme"
+}
