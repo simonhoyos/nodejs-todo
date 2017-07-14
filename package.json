@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/shmesa22/nodejs-todo/issues"
   },
-  "homepage": "https://github.com/shmesa22/nodejs-todo#readme"
+  "homepage": "https://github.com/shmesa22/nodejs-todo#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
 }
